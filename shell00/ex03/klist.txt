@@ -1,0 +1,5 @@
+Credentials cache: API:895FE8E0-D066-48DE-9C72-B7419F95D77A
+        Principal: yachehbo@1337.MA
+
+  Issued                Expires               Principal
+Sep 21 09:28:58 2021  Sep 21 19:28:58 2021  krbtgt/1337.MA@1337.MA
